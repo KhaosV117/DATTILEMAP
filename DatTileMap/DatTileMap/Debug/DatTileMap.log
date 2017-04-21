@@ -1,0 +1,12 @@
+﻿  Source.cpp
+c:\users\this guy\documents\visual studio 2015\projects\dattilemap\dattilemap\source.cpp(94): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dattilemap\dattilemap\source.cpp(95): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dattilemap\dattilemap\source.cpp(96): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dattilemap\dattilemap\source.cpp(97): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dattilemap\dattilemap\source.cpp(100): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dattilemap\dattilemap\source.cpp(101): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dattilemap\dattilemap\source.cpp(102): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dattilemap\dattilemap\source.cpp(103): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\this guy\documents\visual studio 2015\projects\dattilemap\dattilemap\source.cpp(138): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  DatTileMap.vcxproj -> C:\Users\This Guy\Documents\Visual Studio 2015\Projects\DatTileMap\Debug\DatTileMap.exe
+  DatTileMap.vcxproj -> C:\Users\This Guy\Documents\Visual Studio 2015\Projects\DatTileMap\Debug\DatTileMap.pdb (Full PDB)
